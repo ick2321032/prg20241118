@@ -9,7 +9,7 @@
     z-index: 999;
 } 
 body {
-    background-image: url("https://github.com/ick2321032/prg20241125/blob/main/main_pic.png");
+    background-image: url("main_pic.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

@@ -9,7 +9,6 @@
     z-index: 999;
 } 
 body {
-    background-image: url("main_pic.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

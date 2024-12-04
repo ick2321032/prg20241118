@@ -1,5 +1,4 @@
 header {
-   
     width: 100%;
     height: 50px;
     position: fixed;
@@ -7,15 +6,17 @@ header {
     left: 0;
     right: 0;
     padding: 10px;
-    color : white;
     background-color: black;
+}
+.h1{
+    color : white;
 } 
 .Contents {
     width: 100%; /* コンテンツの横幅を指定する */
     overflow: auto; /* コンテンツの表示を自動に設定（スクロール） */
     }
 .body {
-    background-image:url("main_pic.png"); /*イメージのリンク*/
+    background-image: url(main_pic.png); /*イメージのリンク*/
     background-size: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;

@@ -17,7 +17,7 @@ h1{
     overflow: auto; /* コンテンツの表示を自動に設定（スクロール） */
     }
 .body {
-    background-image: url(img/main_pic.png); /*イメージのリンク*/
+    background-image: url("img/main_pic.png"); /*イメージのリンク*/
     background-size: cover;
     background-repeat: no-repeat;
     /* background-attachment: fixed; */

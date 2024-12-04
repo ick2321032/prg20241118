@@ -12,6 +12,15 @@ header {
 h1{
     color : white;
 } 
+p{
+    color: white;
+}
+ul { 
+    color: white;
+}
+h2 {
+    color:white;
+}
 .Contents {
     width: 100%; /* コンテンツの横幅を指定する */
     overflow: auto; /* コンテンツの表示を自動に設定（スクロール） */

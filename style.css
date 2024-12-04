@@ -10,8 +10,12 @@
     color : white;
     background-color: #7d7d7d;
 } 
+.Contents {
+    width: 100%; /* コンテンツの横幅を指定する */
+    overflow: auto; /* コンテンツの表示を自動に設定（スクロール） */
+    }
 .body {
-    background-image:url(main_pic.png);
+    background-image:url(main_pic.png); /*イメージのリンク*/
     background-size: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;
